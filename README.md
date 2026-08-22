@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- BANNER HERO -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6A0572,2D1B4E,1a1a2e&height=300&section=header&text=TevezMarketing&fontSize=90&fontColor=fff&fontAlign=50&desc=Marketing%20Digital%20|%20Growth%20Hacker%20|%20Full%20Stack%20Digital&descAlignY=62&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6A0572,2D1B4E,1a1a2e&height=300&section=header&text=TevezMarketing&fontSize=90&fontColor=fff&fontAlign=50&desc=Marketing%20Digital%20|%20Growth%20Hacker%20|%20Full%20Stack%20Marketer&descAlignY=62&descAlign=50&animation=twinkling" width="100%"/>
 
 <!-- BADGES PRINCIPALES -->
   <br />
@@ -243,7 +243,7 @@ class TevezMarketing:
 <div align="center">
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@tevezmarketing.digital)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos@tevezmarketing.digital)
 [![Website](https://img.shields.io/badge/Website-6A0572?style=for-the-badge&logo=world&logoColor=white)](https://tevezmarketing.digital)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tevezmarketing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/tevezmarketing)
