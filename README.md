@@ -37,8 +37,8 @@ class TevezMarketing:
     def value_proposition(self):
         return {
             "promise": "Tu dinero = Resultados verificables",
-            "guarantee": "Si no vende, optimizamos sin costo",
-            "commitment": "Asesoramiento gratuito a organizaciones sin ánimo de lucro"
+            "guarantee": "El aliado, tecnologico del Tolima",
+            "commitment": "Acompañamiento gratuito a organizaciones sin ánimo de lucro"
         }
 ```
 
