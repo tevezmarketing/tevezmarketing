@@ -19,7 +19,7 @@
 class TevezMarketing:
     def __init__(self):
         self.name = "Carlos Tevez"
-        self.role = "Marketing Digital Strategist | Growth Hacker | Full Stack Digital"
+        self.role = "Marketing Digital Strategist | Growth Hacker | Full Stack Marketer"
         self.location = "Ibagué, Tolima 🇨🇴"
         self.mission = "Transformar negocios del Tolima en máquinas de ventas"
         self.passion = "Nichos sensibles + Publicidad inteligente + Crecimiento escalable"
