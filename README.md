@@ -242,7 +242,7 @@ class TevezMarketing:
 
 <div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573170183313?text=hola%20vi%20tu%20perfil%20en%20github%20y%20necesito%20una%20asesoria%20gratuita%20podriamos%20agendar%20una)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos@tevezmarketing.digital)
 [![Website](https://img.shields.io/badge/Website-6A0572?style=for-the-badge&logo=world&logoColor=white)](https://tevezmarketing.digital)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tevezmarketing)
