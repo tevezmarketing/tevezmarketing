@@ -19,7 +19,7 @@
 class TevezMarketing:
     def __init__(self):
         self.name = "Carlos Tevez"
-        self.role = "Marketing Digital Strategist | Growth Hacker | Full Stack Marketer"
+        self.role = "Marketing Digital Strategist | Full Stack Marketer"
         self.location = "Ibagué, Tolima 🇨🇴"
         self.mission = "Transformar negocios del Tolima en máquinas de ventas"
         self.passion = "Nichos sensibles + Publicidad inteligente + Crecimiento escalable"
@@ -31,13 +31,13 @@ class TevezMarketing:
             "🔍 SEO local y geolocalización",
             "💬 WhatsApp Marketing automático",
             "🌐 Desarrollo web que convierte",
-            "📈 Growth hacking y escalabilidad"
+            "📈 Crecimiento y escalabilidad"
         ]
     
     def value_proposition(self):
         return {
             "promise": "Tu dinero = Resultados verificables",
-            "guarantee": "El aliado, tecnologico del Tolima",
+            "guarantee": "El aliado, tecnológico del Tolima",
             "commitment": "Acompañamiento gratuito a organizaciones sin ánimo de lucro"
         }
 ```
