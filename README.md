@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- BANNER HERO -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6A0572,2D1B4E,1a1a2e&height=300&section=header&text=TevezMarketing&fontSize=90&fontColor=fff&fontAlign=50&desc=Marketing%20Digital%20|%20Growth%20Hacker%20|%20Full%20Stack%20Marketer&descAlignY=62&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6A0572,2D1B4E,1a1a2e&height=300&section=header&text=TevezMarketing&fontSize=90&fontColor=fff&fontAlign=50&desc=Marketing%20Digital%20|%20Full%20Stack%20Marketer&descAlignY=62&descAlign=50&animation=twinkling" width="100%"/>
 
 <!-- BADGES PRINCIPALES -->
   <br />
