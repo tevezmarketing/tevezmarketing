@@ -230,7 +230,7 @@ CIERRE (Follow-up automático, propuestas, tracking)
 - Integración Google Ads loop cerrado
 
 #### **TevezMarketing CTA Plugin** ✅
-- Botones cambian por día/hora/fecha/comportamiento
+- Textos cambian por día/hora/fecha/comportamiento
 - Lunes = "Comencemos", Viernes = "Cierra la semana"
 - 9am-12pm = Llamada, 6pm-11pm = "Contacto mañana"
 - Impacto: +40% click rate, +25% conversiones
@@ -250,10 +250,10 @@ CIERRE (Follow-up automático, propuestas, tracking)
 - Costo: Incluido en infraestructura base ($65-95 USD/mes infrastructure total)
 
   #### **TevezMarketing GEO Plugin**
-- REST API + Cache en D1, Worker genera metadatos adaptativos (geo, UTM, device, segmentos)
-- JSON-LD optimizado para IA + inyección asíncrona en DOM (no bloquea render)
-- Metadatos por post (metabox editor), fallbacks configurables, seguridad HMAC SHA256
-- Costo: Incluido en infraestructura base ($65-95 USD/mes infrastructure total)
+- FAQ adaptativo dinámico generado según:Tipo de negocio del tenant (retail, restaurante, tecnología, salud, automotriz, etc.)
+- Tipo de página detectado por URL (home, services, seo, web, marketing, default Contexto geográfico ciudad del tenant, teléfono, nombre del negocio)
+- Valida y enriquece payloads sin alterar la verdad del plugin Genera metadatos adaptativos: Geolocalización (GeoIP del request), Parámetros UTM (si aplican), 
+- Validación determinística: Misma URL = mismo FAQ (sin dependencias de IP, User-Agent, historial)
 
 ### Seguridad & Cumplimiento
 - TLS 1.3 + AES-256 encriptación
