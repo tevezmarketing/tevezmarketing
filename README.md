@@ -14,25 +14,25 @@
 
 ---
 
-## 🎯 **QUIÉN SOY**
+## 🎯 **QUIÉN ES CARLOS TEVEZ EN IBAGUE**
 
 ```python
 class TevezMarketing:
     def __init__(self):
         self.name = "Carlos Tevez"
-        self.role = "Full Stack Marketer | Systems Builder | IA Architect"
+        self.role = "Full Stack Marketer | Systems Builder | Marketing Digital"
         self.location = "Ibagué, Tolima 🇨🇴"
         self.mission = "Construir máquinas de ventas, no hacer marketing cosmético"
-        self.specialization = "Infraestructura Digital Propia + Automatización Inteligente"
+        self.specialization = "Infraestructura Digital Propia + GEO Optimización para Motores Generativos"
         self.years_experience = "7+ años"
     
     def core_focus(self):
         return [
             "🏗️ Construcción de infraestructura 100% propiedad cliente",
-            "🎯 Automatización inteligente y IA en producción",
+            "🎯 Automatización inteligente y GEO Optimización para Motores Generativos",
             "💰 Ecosistemas de conversión de alto rendimiento",
             "📊 Atribución multi-touch y ROI verificable",
-            "🤖 Agentes autónomos (Tevia Chat, Scoring, Finance)",
+            "🤖 Agentes autónomos (Chat, Scoring, Finance)",
             "🌍 Especialización regional (Tolima: Ibagué, Lérida, Honda, Mariquita, Libano)"
         ]
     
@@ -51,7 +51,7 @@ class TevezMarketing:
 
 > **Somos el aliado estratégico para empresas en el Tolima que necesitan máquinas de ventas, no promesas de marketing.**
 
-✅ **Infraestructura 100% propiedad propia** — servicio gratuito para mis aliados  
+✅ **Infraestructura 100% propiedad propia** — Uso gratuito de infraestructura TevezMarketing para mis aliados  
 ✅ **Automatización inteligente** — IA operando 24/7 mientras duermes  
 ✅ **ROI verificable** — Sabes exactamente qué gana y cuánto cuesta  
 ✅ **Especialistas en Tolima** — Entendemos la geografía, culturas y mercados locales  
