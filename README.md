@@ -211,13 +211,13 @@ CIERRE (Follow-up automático, propuestas, tracking)
 
 ### Productos en Producción
 
-#### **TM-Métricas (Dashboard Personalizado)**
+#### **TM-Métricas (Dashboard Personalizado) ✅**
 - Dashboard cliente (RBAC), admin, alertas automáticas
 - Visualizaciones: gráficas, tablas, mapas de calor, funnels
 - Reportes exportables (PDF/Excel)
 - Costo: $65-95 USD/mes (vs $1,200+ HubSpot)
 
-#### **TevezMarketing RSS Plugin** ✅
+#### **TevezMarketing RSS Plugin ✅**
 - Gestión centralizado de feeds RSS
 - Publicación automática a WordPress + canales
 - 500+ feeds/mes, 99.8% fetch rate
@@ -425,11 +425,11 @@ Sin intervención humana pasos 1-3. Solo humano en cierre.
 
 ### 🟢 EN PRODUCCIÓN
 - **TM Quotes:** CRM propio, 5+ clientes, 99.97% uptime
-- **plugin RSS :** 8+ instalaciones, 500+ feeds/mes, 99.8% fetch
-- **plugin Dynamics:** secciones dinamicos, preguntas o servicios dinamicos server-side
+- **TevezMarketing plugin RSS :** 8+ instalaciones, 500+ feeds/mes, 99.8% fetch
+- **TevezMarketing plugin Dynamics:** secciones dinamicos, preguntas o servicios dinamicos server-side
 - **TM Metricas:** Dashboard especializada+, 10+ clientes
-- **plugin CTA:** llamados a la accion dinamicos, segun el dia y hora
-- **plugin GEO:** JSON-LD dinamico en tiempo real, server-side
+- **TevezMarketing plugin CTA:** llamados a la accion dinamicos, segun el dia y hora
+- **TevezMarketing plugin GEO:** JSON-LD dinamico en tiempo real, server-side
 
 ### 🟡 EN DESARROLLO
 
